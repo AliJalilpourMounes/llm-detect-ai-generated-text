@@ -28,7 +28,7 @@ venv.bak/
 
 # Output & Data (Adjust as needed)
 output/
-data/ 
+data/*
 # ...BUT explicitly track these specific files inside data/
 !data/README.md
 !data/.gitkeep
