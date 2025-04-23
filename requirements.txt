@@ -1,0 +1,9 @@
+transformers>=4.30.0,<4.38.0 
+datasets>=2.14.0,<2.18.0
+evaluate>=0.4.0
+accelerate>=0.21.0
+scikit-learn>=1.2.2
+pandas>=1.5.3
+torch>=2.0.0 # Check compatibility with your hardware/CUDA
+numpy>=1.23.5
+# Add other implicit dependencies if needed (e.g., sentencepiece for some tokenizers)
